@@ -231,11 +231,6 @@ r.MoveL(p(1354.51,-793.956,621.243,-180,16.2113,180),[-15.1431,-45.9352,20.6798,
 r.ProgFinish(r"""Mainprog""")
 r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Mainprog""",True,r"""E:/RoboDK/Other/VSCodium/VSCodium.exe""")
 ```
-/*
- 
-Developed by: 
-RegisterNumber:  
-*/
  
 <img width="1015" height="493" alt="image" src="https://github.com/user-attachments/assets/734bca1d-5c64-4a90-9484-ccd1060a9a3d" />
 
